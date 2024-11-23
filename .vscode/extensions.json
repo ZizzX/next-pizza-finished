@@ -1,0 +1,29 @@
+{
+  "recommendations": [
+    // Основные расширения
+    "dbaeumer.vscode-eslint",          // ESLint
+    "esbenp.prettier-vscode",          // Prettier
+    "bradlc.vscode-tailwindcss",       // Tailwind CSS IntelliSense
+    "prisma.prisma",                   // Prisma
+    
+    // TypeScript и React
+    "ms-vscode.vscode-typescript-next", // TypeScript Nightly
+    "dsznajder.es7-react-js-snippets", // React/Redux/GraphQL/React-Native snippets
+    
+    // Дополнительные инструменты
+    "christian-kohler.path-intellisense", // Автодополнение путей
+    "formulahendry.auto-rename-tag",      // Авто-переименование HTML/XML тегов
+    "naumovs.color-highlight",            // Подсветка цветов в коде
+    "streetsidesoftware.code-spell-checker", // Проверка орфографии
+    "mikestead.dotenv",                   // Поддержка .env файлов
+    "csstools.postcss",                   // PostCSS
+    
+    // Git
+    "eamodio.gitlens",                   // GitLens
+    
+    // Иконки и темы
+    "pkief.material-icon-theme",          // Material Icon Theme
+    "zhuangtongfa.material-theme"         // One Dark Pro тема
+  ],
+  "unwantedRecommendations": []
+}
